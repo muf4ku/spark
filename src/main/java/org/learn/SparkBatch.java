@@ -1,4 +1,4 @@
-package org.ebdesk;
+package org.learn;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;
